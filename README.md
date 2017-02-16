@@ -1,2 +1,4 @@
-# CPL
-The C Programming Language - 2nd Ed.; B.W. Kernighan, D.M. Ritchie [theory, solutions, application, ...,n] 
+## The C Programming Language
+### 2nd Edition
+#### B.W. Kernighan, D.M. Ritchie 
+My notes, solutions, projects, and general remaks on the tex.
