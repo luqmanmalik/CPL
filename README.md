@@ -1,4 +1,4 @@
 ## The C++ Programming Language
-### 2nd Edition
-#### B.W. Kernighan, D.M. Ritchie 
+### Third Edition
+#### Bjarne Stoustrup
 My notes, solutions, projects, and general remaks on the text.
